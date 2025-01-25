@@ -59,7 +59,7 @@ main .data p {
 
 @media (max-width: 600px) {
   .motives {
-    padding: 0rem 7rem;
+    padding: 0rem 8rem;
   }
   h1 {
     font-size: 28px;
